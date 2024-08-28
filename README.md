@@ -1,7 +1,3 @@
-A simple README file with project details.
-
-markdown
-Copy code
 # Master AI Agent with LangGraph
 
 This project demonstrates how to build a stateful, multi-actor AI agent using the LangGraph framework within the LangChain ecosystem.
@@ -41,9 +37,6 @@ from src.chat_bot import run_chatbot
 if __name__ == "__main__":
     run_chatbot()
 3. requirements.txt
-Dependencies for your project.
-
-Copy code
 openai
 langchain_community
 langchain_openai
