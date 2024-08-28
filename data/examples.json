@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "I bought a fan and it's not working properly. I want a refund."
+    },
+    {
+        "role": "user",
+        "content": "It was only 2 days ago."
+    }
+]
